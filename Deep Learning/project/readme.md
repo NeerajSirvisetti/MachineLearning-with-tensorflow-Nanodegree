@@ -1,1 +1,2 @@
-
+Image Classification application having 2 phases, whose main aim is to create an application through which when any image file is given it classified according to the data it has. The dataset used is inbuilt datasets of TensorFlow named Oxford 102 Dataset. Used Transfer learning to attain an accuracy of around 90%.
+The first phase work can be found in this directory while the second phase work can be found in the workspace directory present in the current directory.
